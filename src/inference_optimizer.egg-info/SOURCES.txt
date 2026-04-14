@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/inference_optimizer/__init__.py
+src/inference_optimizer/core.py
+src/inference_optimizer.egg-info/PKG-INFO
+src/inference_optimizer.egg-info/SOURCES.txt
+src/inference_optimizer.egg-info/dependency_links.txt
+src/inference_optimizer.egg-info/top_level.txt
+tests/test_benchmarks.py
+tests/test_integration.py
+tests/test_onnx.py
+tests/test_quantization.py
+tests/test_tensorrt.py
